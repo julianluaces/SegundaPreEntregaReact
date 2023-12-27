@@ -1,0 +1,26 @@
+
+
+.navbar-contenedor {
+    background-color: rgb(146, 146, 238);
+}   
+
+.item-count {
+
+    display: flex;
+    padding: 1rem;
+    justify-content: center;
+    align-items: baseline;
+    gap: 1rem;
+    
+
+
+
+}   
+
+.greeting {
+
+    display: flex;
+    justify-content: center;
+    padding: 3rem;
+    background-color: aliceblue;
+}
